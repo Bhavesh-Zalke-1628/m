@@ -1,7 +1,7 @@
 import './App.css' 
 
 function App() {
-  console.log(import.meta.env.VITE_APPWTIRE_URL);
+  // console.log(import.meta.env.VITE_APPWTIRE_URL);
   return (
     <h1>Hello</h1>
   )
